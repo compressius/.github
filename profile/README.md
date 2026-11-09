@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <strong>Free to use · Runs locally · Linux, macOS &amp; Windows</strong>
+  <a href="https://github.com/compressius/cmx/releases/latest"><img src="https://img.shields.io/github/v/release/compressius/cmx?style=flat-square&amp;label=release&amp;labelColor=252936&amp;color=c81e3c" alt="Latest stable CMX release" height="20"></a>
+  <a href="https://compressi.us/downloads"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/badges/platforms.svg" alt="Platforms: Linux, macOS, Windows" height="20"></a>
+  <a href="https://docs.compressi.us/security"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/badges/gateway.svg" alt="Gateway: local" height="20"></a>
+  <a href="https://github.com/compressius/cmx/blob/main/LICENSE"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/badges/license.svg" alt="License: Proprietary Gratis" height="20"></a>
 </p>
 
 <p align="center">
@@ -13,6 +16,27 @@
   <a href="https://docs.compressi.us/quickstart">Quickstart</a> &nbsp;·&nbsp;
   <a href="https://docs.compressi.us/">Documentation</a> &nbsp;·&nbsp;
   <a href="https://github.com/compressius/cmx/releases">Releases</a>
+</p>
+
+<p align="center">
+  <strong>Coding harness integrations</strong>
+</p>
+
+<p align="center">
+  <a href="https://docs.compressi.us/providers/codex"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/codex.svg" alt="Codex" width="156" height="88"></a>
+  <a href="https://docs.compressi.us/providers/opencode"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/opencode.svg" alt="OpenCode" width="156" height="88"></a>
+  <a href="https://docs.compressi.us/providers/claude-code"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/claude.svg" alt="Claude Code" width="156" height="88"></a>
+  <a href="https://docs.compressi.us/providers/aider"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/aider.svg" alt="Aider" width="156" height="88"></a>
+</p>
+
+<p align="center">
+  <a href="https://docs.compressi.us/providers/antigravity"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/antigravity.svg" alt="Antigravity CLI" width="156" height="88"></a>
+  <a href="https://docs.compressi.us/providers/cline"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/cline.svg" alt="Cline" width="156" height="88"></a>
+  <a href="https://docs.compressi.us/providers/custom-agents"><img src="https://raw.githubusercontent.com/compressius/.github/bae77637f14eda1c19268a73b4f8b793f4b29e4d/profile/assets/harness-cards/xai.svg" alt="Grok Build CLI" width="156" height="88"></a>
+</p>
+
+<p align="center">
+  <a href="https://docs.compressi.us/providers/codex">Codex</a> · <a href="https://docs.compressi.us/providers/opencode">OpenCode</a> · <a href="https://docs.compressi.us/providers/claude-code">Claude Code</a> · <a href="https://docs.compressi.us/providers/aider">Aider</a> · <a href="https://docs.compressi.us/providers/antigravity">Antigravity CLI</a> · <a href="https://docs.compressi.us/providers/cline">Cline</a> · <a href="https://docs.compressi.us/providers/custom-agents">Grok Build CLI</a>
 </p>
 
 # Compressius Maximus (CMX)
@@ -66,9 +90,7 @@ The standalone installer runs setup and asks before connecting detected coding c
 
 Open `cmx` for the terminal interface. Run `cmx login` if you want the account dashboard. See the [quickstart](https://docs.compressi.us/quickstart) for connection checks and [how to restore direct routing](https://docs.compressi.us/uninstall).
 
-## Use your coding tools
-
-Follow the setup guide for [Codex](https://docs.compressi.us/providers/codex), [OpenCode](https://docs.compressi.us/providers/opencode), [Claude Code](https://docs.compressi.us/providers/claude-code), [Aider](https://docs.compressi.us/providers/aider), [Antigravity](https://docs.compressi.us/providers/antigravity), or [Cline](https://docs.compressi.us/providers/cline).
+## Supported API formats
 
 CMX supports compression for **OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages**. Other clients can connect through a custom API base URL; support depends on the request format. See [client compatibility](https://docs.compressi.us/providers/overview), [custom client setup](https://docs.compressi.us/providers/custom-agents), and [model providers](https://docs.compressi.us/model-providers).
 
