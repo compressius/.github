@@ -1,0 +1,47 @@
+[
+  {
+    "file": "harnesses/codex.svg",
+    "source": "https://compressi.us/providers/codex.svg",
+    "sha256": "7025aa35e12c8083a0ad3d01079dfe7761c9c9daba86ac5a3053c77988e1a4b4"
+  },
+  {
+    "file": "harnesses/opencode.svg",
+    "source": "https://compressi.us/providers/opencode.svg",
+    "sha256": "381da697ae56834ddcca9f95694a843731ebdc5ccf7b9997022c06522b57b433"
+  },
+  {
+    "file": "harnesses/claude.svg",
+    "source": "https://compressi.us/providers/claude.svg",
+    "sha256": "365a70a7eb3956d9b9a96086058ebe04e1dbd8e291a756ad964e8a283fbd6d38"
+  },
+  {
+    "file": "harnesses/antigravity.svg",
+    "source": "https://compressi.us/providers/antigravity.svg",
+    "sha256": "6ada2922eccacf2c2f5f39054d3fc8babfbe77a41f500cbc522d8725e23944f8"
+  },
+  {
+    "file": "harnesses/cline.svg",
+    "source": "https://compressi.us/providers/cline.svg",
+    "sha256": "f45920b148c3b67129b36f86abcf9449502fe2d0ab58e90185a60faf72e01a77"
+  },
+  {
+    "file": "harnesses/xai.svg",
+    "source": "https://compressi.us/providers/xai.svg",
+    "sha256": "f896334c0e349e3c779c92d2accfca3d696533a3f2924be281654ffe09a84d5c"
+  },
+  {
+    "file": "badges/platforms.svg",
+    "source": "https://img.shields.io/static/v1?label=platforms&message=Linux%20%7C%20macOS%20%7C%20Windows&color=64748b&labelColor=252936&style=flat-square",
+    "sha256": "8e9943073b0922ab7890bab45461b25aacdcaaa55b908b27c3c7ef558d381112"
+  },
+  {
+    "file": "badges/gateway.svg",
+    "source": "https://img.shields.io/static/v1?label=gateway&message=local&color=c81e3c&labelColor=252936&style=flat-square",
+    "sha256": "d78be81df96fef8591fbd79f7db0c9bb91f2022be55f783d3fe184e583d17004"
+  },
+  {
+    "file": "badges/license.svg",
+    "source": "https://img.shields.io/static/v1?label=license&message=Proprietary%20Gratis&color=64748b&labelColor=252936&style=flat-square",
+    "sha256": "32e265ec0db6de7176ef52ed568640254d293960dafc8244674b070fff6de3c0"
+  }
+]
